@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Video</string>
+    <string name="dialog_text">Mobile Verification required! Press OK to continue.</string>
+    <string name="dialog_title">Mobile Verification</string>
+
+
+
+    <string name="admob_appid">ca-app-pub-8555945815005574~7905650883</string>
+    <string name="admob_intertestial_ad">ca-app-pub-8555945815005574/7088706311</string>
+    <string name="admob_rewarded_ad">ca-app-pub-8555945815005574/9331301242</string>
+
+    <string name="enable_intertestail">true</string>
+    <string name="enable_rewarded">true</string>
+</resources>
